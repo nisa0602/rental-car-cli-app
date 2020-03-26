@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "car": "BB-4563 black",
+      "id": 1,
+      "rented": true,
+      "message": "car rented",
+      "customer": {
+        "customer": "John"
+      }
+    },
+    {
+      "car": "RR-9359 silver",
+      "id": 1,
+      "rented": false,
+      "message": "Car RR-9359 silver saved"
+    }
+  ],
+  "customers": [
+    {
+      "id": 0,
+      "message": "Hello John"
+    }
+  ]
+}
